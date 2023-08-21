@@ -36,3 +36,5 @@ a = 10 + b
 3. Run `./calc` to run it as an interactive shell. You can also pass files to it by changing the stdin, and receive the results in a new file by changing stout. For example: ./calc < script.txt > output.txt
 
 ## Example:
+
+![Usage example](./example.png).
