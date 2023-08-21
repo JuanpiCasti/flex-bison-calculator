@@ -1,5 +1,5 @@
 main: calc.o main.o scanner.o parser.o
-	gcc calc.o main.o scanner.o parser.o -o main -lfl -lm
+	gcc calc.o main.o scanner.o parser.o -o calc -lfl -lm
 
 main.o: main.c scanner.c parser.c calc.c
 	gcc -c main.c
