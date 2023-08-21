@@ -3,6 +3,8 @@
 This is a project for the Syntax and Semantics of Languages course in UTN FRBA.
 The project consists of a calculator made using flex, bison and C with the language design techniques learnt in class.
 
+The language specification is available in BNF.pdf.
+
 ## Usage
 
 With this calculator you can make common operations like:
